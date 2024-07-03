@@ -1,0 +1,2 @@
+# daemontest
+linuxデーモンテスト
